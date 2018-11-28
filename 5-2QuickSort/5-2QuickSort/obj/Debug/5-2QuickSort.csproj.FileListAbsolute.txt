@@ -1,0 +1,7 @@
+C:\Users\root\source\repos\5-2QuickSort\5-2QuickSort\bin\Debug\5-2QuickSort.exe.config
+C:\Users\root\source\repos\5-2QuickSort\5-2QuickSort\bin\Debug\5-2QuickSort.exe
+C:\Users\root\source\repos\5-2QuickSort\5-2QuickSort\bin\Debug\5-2QuickSort.pdb
+C:\Users\root\source\repos\5-2QuickSort\5-2QuickSort\obj\Debug\5-2QuickSort.csprojAssemblyReference.cache
+C:\Users\root\source\repos\5-2QuickSort\5-2QuickSort\obj\Debug\5-2QuickSort.csproj.CoreCompileInputs.cache
+C:\Users\root\source\repos\5-2QuickSort\5-2QuickSort\obj\Debug\5-2QuickSort.exe
+C:\Users\root\source\repos\5-2QuickSort\5-2QuickSort\obj\Debug\5-2QuickSort.pdb
