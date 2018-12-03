@@ -1,0 +1,7 @@
+C:\Users\root\source\repos\5-3Radix\5-3Radix\bin\Debug\5-3Radix.exe.config
+C:\Users\root\source\repos\5-3Radix\5-3Radix\bin\Debug\5-3Radix.exe
+C:\Users\root\source\repos\5-3Radix\5-3Radix\bin\Debug\5-3Radix.pdb
+C:\Users\root\source\repos\5-3Radix\5-3Radix\obj\Debug\5-3Radix.csprojAssemblyReference.cache
+C:\Users\root\source\repos\5-3Radix\5-3Radix\obj\Debug\5-3Radix.csproj.CoreCompileInputs.cache
+C:\Users\root\source\repos\5-3Radix\5-3Radix\obj\Debug\5-3Radix.exe
+C:\Users\root\source\repos\5-3Radix\5-3Radix\obj\Debug\5-3Radix.pdb
